@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 أهلاً بيك! أنا Ahmed Ragab
 
-<!--
-**MajekAhmed/MajekAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Android Developer** | Kotlin & Jetpack Compose Enthusiast  
+🌐 Skilled in **HTML**, **CSS**, and **WordPress**  
+📚 Currently learning **JavaScript**, **Python** & **Flutter**  
+🚀 Passionate about building **user-friendly apps** & **websites**  
+📱 Creator of **Dabsh** – Fun multiplayer score tracking game  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 المهارات
+- **Android Development:** Kotlin, Jetpack Compose  
+- **Web Development:** HTML, CSS, WordPress  
+- **Learning:** JavaScript, Python, Flutter  
+- **Tools & Platforms:** GitHub, Android Studio, VS Code  
+
+---
+
+## 📌 مشاريعي
+- 🎯 **Dabsh** – لعبة لتسجيل النقاط بين اللاعبين بطريقة ممتعة وسهلة.  
+  [🔗 رابط المشروع](https://github.com/MajekAhmed/Dabsh)  
+
+---
+
+## 📫 للتواصل
+- **Email:** [owen.ar2002@gmail.com](mailto:owen.ar2002@gmail.com)  
+- **GitHub:** [MajekAhmed](https://github.com/MajekAhmed)  
+
+---
+⭐ إذا عجبك أي من مشاريعي، ما تنساش تعمل **Star** للمستودع 😊
